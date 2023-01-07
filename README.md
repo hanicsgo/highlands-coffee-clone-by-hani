@@ -3,7 +3,7 @@
 ###### This login form is a mobile-friendly login form. You can even create a registration form and password reset form using this form. This form design will add elegance to your website
 
 # Preview 
-<img src="https://imgur.com/jx6iynH"/>
+<img src="https://i.imgur.com/jx6iynH.png"/>
 
 # Contact
 https://www.facebook.com/hanifancy/
